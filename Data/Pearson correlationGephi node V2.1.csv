@@ -1,0 +1,42 @@
+Group;ID;Label;Value
+Q1;AI;AI;3,7
+Q1;Chat GPT;Chat GPT;3,9
+Q1;Cookies;Cookies;3,7
+Q1;Data ownership;Data ownership;3,1
+Q1;Data science;Data science;3
+Q1;Data sharing;Data sharing;3,7
+Q1;Eye tracking;Eye tracking;3,1
+Q1;GDPR;GDPR;2,5
+Q1;Hybrid reality;Hybrid reality;2,5
+Q1;Microsoft co-pilot;Microsoft co-pilot;2,3
+Q1;Personal data;Personal data;3,8
+Q1;VR Glasses;VR Glasses;3,6
+Q2;Social media;Social media;2,4
+Q2;A friend;A friend;3,7
+Q2;A secret service;A secret service;2,1
+Q2;A smart vehicle approaching;A smart vehicle approaching;3
+Q2;An app accessing my mobile videos;An app accessing my mobile videos;2,6
+Q2;Marketing companies;Marketing companies;2,6
+Q2;Police;Police;2,2
+Q2;Smart city planners;Smart city planners;3
+Q3;Act upon received data;Act upon received data;3,1
+Q3;Collect and store data;Collect and store data;2,7
+Q3;Combine data with other data sources;Combine data with other data sources;3,2
+Q3;Declare why they need data;Declare why they need data;4
+Q3;Delete data after analysis;Delete data after analysis;3,8
+Q3;Publicly disclose data analysis results;Publicly disclose data analysis results;2,9
+Q3;Share data with others;Share data with others;2,5
+Q3;Use AI to design your profile;Use AI to design your profile;2,4
+Q4;Me, I have recorded it;Me, I have recorded it;4,2
+Q4;The App developer;The App developer;1,8
+Q4;The mobile device producer;The mobile device producer;1,8
+Q4;The state;The state;1,6
+Q4;Whoever was recorded;Whoever was recorded;2,9
+Q5;Decide which data I share with whom;Decide which data I share with whom;3,9
+Q5;Govern my data manually;Govern my data manually;3,1
+Q5;Let AI restrict other AI in collecting my data;Let AI restrict other AI in collecting my data;3
+Q5;Sell my data upon payment;Sell my data upon payment;2,6
+Q5;Share data for a common good (non profit);Share data for a common good (non profit);3
+Q5;Share my data to increase my safety;Share my data to increase my safety;3,3
+Q5;Share my data with AI;Share my data with AI;2,3
+Q5;Take ownership of my data;Take ownership of my data;3,4
